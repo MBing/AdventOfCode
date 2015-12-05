@@ -24,3 +24,5 @@ for (var i = 0; i < inputDay1.length; i++) {
 }
 
 console.log(level);
+
+// https://repl.it/B6Jl/2
